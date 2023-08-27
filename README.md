@@ -21,9 +21,9 @@ Welcome to the AI-Companion repository! This web application leverages cutting-e
 ### Phone Preview
 
 <div style="display: flex;">
-  <img src="https://github.com/jasonsonthanhngo/ai-companion/assets/131301318/8be179f5-134b-4821-b94a-ba833ee8daeb" alt="phone_home" width="300"/>
-  <img src="https://github.com/jasonsonthanhngo/ai-companion/assets/131301318/3dc43bb7-db24-42a3-82d9-1906b001783b" alt="Phone_Created" width="300"/>
-  <img src="https://github.com/jasonsonthanhngo/ai-companion/assets/131301318/11f72c92-1d0c-4762-9fcc-994eb994f141" alt="Phone_sample" width="300"/>
+  <img src="https://github.com/jasonsonthanhngo/ai-companion/assets/131301318/8be179f5-134b-4821-b94a-ba833ee8daeb" alt="phone_home" width="266"/>
+  <img src="https://github.com/jasonsonthanhngo/ai-companion/assets/131301318/3dc43bb7-db24-42a3-82d9-1906b001783b" alt="Phone_Created" width="266"/>
+  <img src="https://github.com/jasonsonthanhngo/ai-companion/assets/131301318/11f72c92-1d0c-4762-9fcc-994eb994f141" alt="Phone_sample" width="266"/>
 </div>
 
 
